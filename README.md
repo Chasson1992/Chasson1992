@@ -1,4 +1,4 @@
-<img src="images/header.jpg"></img>
+<img src="images/header.gif"></img>
 
 <h1> Welcome! :v: </h1> 
  
