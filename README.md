@@ -1,15 +1,14 @@
 <img src="images/header.gif"></img>
 
-<h1> Welcome! :v: </h1> 
+<h1> Welcome! </h1> 
  
- :person_in_tuxedo: Senior Software Engineer \
- :house: Virginia, USA \
- :dog2: <a href="https://www.instagram.com/camdenyawns">Lila & Cam</a> \
- :satellite: Always looking for new and exciting projects to work on! 
+ :person_in_tuxedo: Senior Software Engineer
+ :house: North Carolina, USA \
+ :satellite: Always looking for new and exciting projects to work on
  
- Feel free to reach out to me via the Gmail and LinkedIn links below!
+ Feel free to reach out to me via the Gmail and LinkedIn links below
  
- <h2> 	:computer: My Skills </h2>
+ <h2> 	:computer: Skills </h2>
  
 ![C++](https://img.shields.io/badge/-C%2B%2B-red)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
